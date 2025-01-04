@@ -4,7 +4,9 @@
 
 ## 소스 저장소
 - [Frontend Repository](https://github.com/ICA1-AE/LifeSpoiler-FE)
-- [Backend Repository](https://github.com/ICA1-AE/LifeSpoiler-BE)
+- [FixStory Repository](https://github.com/ICA1-AE/PixStory)
+- [DreamLens Repository](https://github.com/ICA1-AE/DreamLens)
+- [FlipBook Repository](https://github.com/ICA1-AE/FlipBook)
 
 ## 프로젝트 구조
 
